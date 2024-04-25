@@ -140,7 +140,7 @@ beef:
         requester:
             enable: true
         proxy:
-            enable: true
+            enable: false
         network:
             enable: true
         metasploit:
